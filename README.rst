@@ -82,7 +82,7 @@ Data
     Luke Skywalker         etiquette        B+
     Luke Skywalker         grammar          B
     Luke Skywalker         gym              A
-    Han Solo               math             A-
+    Han pylint             math             A-
     Han Solo               etiquette        C-
     Han Solo               grammar          B
     Han Solo               gym              B
@@ -229,7 +229,7 @@ Specifications
 
 #.  Complete line 10 of ``task_06.py`` so that the ``'pet'`` key of the
     ``HERO_DATA`` dictionary is added to the new ``SUPER_SIDEKICKS``
-    dictionary.
+    dictionary.	
 
 #.  If no pet data exists, the returned value should be ``None``
 
