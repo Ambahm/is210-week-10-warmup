@@ -10,7 +10,7 @@ GRADE_DATA = {
     'Luke Skywalker':{
         'subject':{
             'math':'B', 'etiquette':'B+', 'grammar':'B', 'gym':'A'
-         }
+        }
     },
     'Han Solo':{
         'subject':{
