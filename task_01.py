@@ -7,14 +7,20 @@
 
 
 GRADE_DATA = {
-    'Luke Skywalker':{'subject':{
-        'math':'B', 'etiquette':'B+', 'grammar':'B', 'gym':'A'}
+    'Luke Skywalker':{
+        'subject':{
+            'math':'B', 'etiquette':'B+', 'grammar':'B', 'gym':'A'
+         }
     },
-    'Han Solo':{'subject':{
-        'math':'A-', 'etiquette':'C-', 'grammar':'B', 'gym':'B'}
+    'Han Solo':{
+        'subject':{
+            'math':'A-', 'etiquette':'C-', 'grammar':'B', 'gym':'B'
+        }
     },
-    'C-3PO':{'subject':{
-        'math':'C', 'etiquette':'A+', 'grammar':'A', 'gym':'F'}
+    'C-3PO':{
+        'subject':{
+            'math':'C', 'etiquette':'A+', 'grammar':'A', 'gym':'F'
+        }
     }
 }
 
